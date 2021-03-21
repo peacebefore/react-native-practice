@@ -1,7 +1,4 @@
 import React from "react";
-import styled from "styled-components/native";
-import { Text, Image, View } from "react-native";
-import { Card } from "react-native-paper";
 import { SvgXml } from "react-native-svg";
 
 import { Text } from "../../../components/typography/text.component";
